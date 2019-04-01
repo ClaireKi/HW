@@ -4,9 +4,9 @@ Loop (반복문)
 </br>
 >while 조건:
 </br>
-><&nbsp>실행할 명령1
+>&nbsp&nbsp실행할 명령1
 </br>
-><&nbsp>실행할 명령2...
+>&nbsp &nbsp실행할 명령2...
 
 >   조건 검사 - 명령1 - 명령2 - ... - 조건검사 - 명령 1 - 명령2 - ...
 
@@ -50,7 +50,6 @@ Dictionary
 > {key1: val1, ...}
 
 
-'''
 <pre><code>
 my_dict = {}
 
@@ -94,13 +93,13 @@ dictionary의 메소드
 ==================
 
 >dict.values()
->>dictionary에서 val(값)만 뽑아오는 것
+>&nbsp&nbspdictionary에서 val(값)만 뽑아오는 것
         
 >dict.keys()
->>dictionary에서 key만 뽑아오는 것
+>&nbsp&nbspdictionary에서 key만 뽑아오는 것
         
 >dict.items()
->>dictionary에서 key, val 동시에 뽑아오는 것
+>&nbsp&nbspdictionary에서 key, val 동시에 뽑아오는 것
         
 <pre><code>
 my_dict = {}
@@ -126,7 +125,7 @@ Function (함수)
 ===============
 >정의: 반복되는 코드를 묶어서 이름을 붙여놓은 것.
 
->>>1)내장함수 : 파이썬에서 기본으로 제공하는 함수 , 이름만 알면 바로 쓸 수 있음
+>&nbsp&nbsp1)내장함수 : 파이썬에서 기본으로 제공하는 함수 , 이름만 알면 바로 쓸 수 있음
 
 >>>2)모듈의 함수 : import를 해서 가져다 쓰는 함수
 
